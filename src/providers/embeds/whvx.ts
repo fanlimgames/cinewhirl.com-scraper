@@ -14,7 +14,7 @@ const providers = [
   {
     id: 'orion',
     rank: 700,
-    disabled: true,
+    disabled: false,
   },
 ];
 
