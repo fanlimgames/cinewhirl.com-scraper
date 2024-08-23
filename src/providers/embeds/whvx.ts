@@ -4,7 +4,7 @@ import { NotFoundError } from '@/utils/errors';
 
 const providers = [
   {
-    id: 'orion',
+    id: 'nova',
     rank: 720,
     disabled: false,
   },
@@ -13,9 +13,9 @@ const providers = [
     rank: 710,
   },
   {
-    id: 'nova',
+    id: 'orion',
     rank: 700,
-    disabled: false,
+    disabled: true,
   },
 ];
 
